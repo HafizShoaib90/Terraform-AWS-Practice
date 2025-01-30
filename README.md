@@ -1,7 +1,6 @@
-##^======|H|====== Terraform AWS Practice ======|S|======^
+                                             ^======|H|======Terraform AWS Practice======|S|======^
+
 Hands-on practice with Terraform and AWS. This repository contains real-time labs, configurations, and experiments to automate cloud infrastructure using Infrastructure as Code (IaC).
-
-
 
 This repository contains hands-on **Terraform** labs and projects focused on **AWS**. The goal is to apply Terraform concepts in real-world scenarios and automate cloud infrastructure efficiently.  
 
